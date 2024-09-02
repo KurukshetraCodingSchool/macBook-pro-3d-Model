@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.line{
+    border-bottom: 0.5px solid #ffff;
+    width: 27.5%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50% , 0%);
+    padding-bottom: 5px;
+    
+  }
+  a{
+    text-transform: uppercase;
+  }
